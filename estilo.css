@@ -62,11 +62,19 @@ html, body{
   height: 100%;
 }
 
+.fila-movimientos button{
+  width: 48%;
+  margin: 0 0.3rem;
+  padding: 0.5rem;
+}
 
-
-
-
-
+.btn-info{
+  background-color: #E4F0F8;
+  border: none;
+  color: #009EE3;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}
 
 
 
